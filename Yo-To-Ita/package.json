@@ -1,0 +1,14 @@
+{
+  "name": "esercizio2_tln",
+  "version": "1.0.0",
+  "description": "Esercizio numero 2 per l'esame di Tecnologie del Linguaggio Naurale. Professore: Alessandro Mazzei",
+  "main": "app.js",
+  "scripts": {
+    "run": "run"
+  },
+  "author": "Valentino Di Cianni",
+  "license": "ISC",
+  "dependencies": {
+    "node-matrix": "^1.0.0"
+  }
+}

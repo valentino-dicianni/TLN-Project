@@ -1,0 +1,30 @@
+% start S
+############################
+# Grammar Rules
+#############################
+
+S -> PRON VP
+NP -> NP PP
+NP -> ADJ N
+NP -> N ADV
+VP -> V NP
+VP -> V ADJ
+PP -> PREP N
+
+#############################
+# Lexical Rules
+#############################
+
+PRON -> tu
+PRON -> noi
+N -> anni
+N -> età
+N -> amici
+V -> avrai
+V -> hai
+V -> siamo
+ADV -> lì
+ADJ -> novecento
+ADJ -> illuminati
+PREP -> di
+
